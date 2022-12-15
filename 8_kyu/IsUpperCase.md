@@ -14,18 +14,11 @@
 -In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
 
 ```CSharp
-using System;
-
-public static class Kata
+public static class StringExtensions
 {
-    public static int summation(int num)
-    {
-      int sum = 0;
-      for (int i = 0; i <= num; i++)
-      {
-        sum += i;
-      }
-      return sum;
-    }
+  public static bool IsUpperCase(this string text)
+  {
+   return text == text.ToUpper();
+  }
 }
 ```
