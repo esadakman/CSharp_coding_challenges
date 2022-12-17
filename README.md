@@ -31,6 +31,12 @@ Solutions to CodeWars programming tasks. I try to update every day
     <td><a href="" ></a></td> 
     <td><a href="" ></a></td> 
   </tr> 
+  <tr>
+    <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/8_kyu/Square.md" >Square</a></td>
+    <td><a href="" ></a></td>
+    <td><a href="" ></a></td> 
+    <td><a href="" ></a></td> 
+  </tr> 
    
 </table>
 </p>
