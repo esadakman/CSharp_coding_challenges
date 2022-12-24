@@ -21,13 +21,13 @@ Solutions to CodeWars programming tasks. I try to update every day
   </tr> 
   <tr>
     <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/8_kyu/IsUpperCase.md" >IsUpperCase</a></td>
-    <td><a href="" ></a></td>
+    <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/7_kyu/CheckExam.md" >CheckExam</a></td>  
     <td><a href="" ></a></td> 
     <td><a href="" ></a></td> 
   </tr> 
   <tr>
     <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/8_kyu/DifferenceInAges.md" >DifferenceInAges</a></td>
-    <td><a href="" ></a></td>
+    <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/7_kyu/bump .md" >bump </a></td> 
     <td><a href="" ></a></td> 
     <td><a href="" ></a></td> 
   </tr> 
@@ -57,6 +57,12 @@ Solutions to CodeWars programming tasks. I try to update every day
   </tr> 
   <tr>
     <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/8_kyu/FindAverage.md" >FindAverage</a></td>
+    <td><a href="" ></a></td>
+    <td><a href="" ></a></td> 
+    <td><a href="" ></a></td> 
+  </tr> 
+  <tr>
+    <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/8_kyu/is_divide_by.md" >is_divide_by</a></td>
     <td><a href="" ></a></td>
     <td><a href="" ></a></td> 
     <td><a href="" ></a></td> 
