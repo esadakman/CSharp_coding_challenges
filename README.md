@@ -16,7 +16,7 @@ Solutions to CodeWars programming tasks. I try to update every day
   <tr>
     <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/8_kyu/summation.md" >summation</a></td>
     <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/7_kyu/CookingTime.md" >CookingTime</a></td> 
-    <td><a href="" ></a></td> 
+    <td><a href="https://github.com/esadakman/CSharp_Coding_Challenges/blob/master/6_kyu/GetUnique.md" >GetUnique</a></td>  
     <td><a href="" ></a></td> 
   </tr> 
   <tr>
